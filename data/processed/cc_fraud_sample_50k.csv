@@ -1,0 +1,6 @@
+Hypothesis
+H1: Higher Amount ? higher fraud rate
+H2: Fraud is concentrated in certain Time ranges
+H3: Fraud Amount is disproportionately high vs overall Amount
+H4: Amount bucket “1000+” has higher fraud rate than mid buckets
+H5: A few V-features correlate with fraud (later in Python)
